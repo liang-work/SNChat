@@ -1,0 +1,5 @@
+项目目录下的temp/文件夹均为参考项目，非实际代码
+其中temp/SOP是来自官方的另一个安卓原生软件
+temp/SNChat是python版的代码
+temp/SNChat/docs则是文档
+temp/a是官方客户端与聊天部分相关的代码
